@@ -70,6 +70,6 @@ After the training is complete, the model parameter files will be saved to outSa
 The visualization code for the interpretability analysis section is stored in the 'Analysis' folder. It includes visualizations of the model training optimization process and interpretability analysis at the sample and feature levels.
 
 ## 5 Conclusion
-This document is provided for users to know DSpaLaRefiner. As an open source algorithm, we have documented all the code and the functio  For more details, please see our paper.  We looking forward to receiving any bug reports and suggestions, please feel free to contact us anytime. (jingry@scu.edu.cn,liml@scu.edu.cn,LX7381@gmail.com)
+This document is provided for users to know DSpaLaRefiner. As an open source algorithm, we have documented all the code and the functio  For more details, please see our paper.  We looking forward to receiving any bug reports and suggestions, please feel free to contact us anytime.
 
 
