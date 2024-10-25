@@ -1,10 +1,10 @@
-@article{lv2024unveiling,
-  title={Unveiling diagnostic information for type 2 diabetes through interpretable machine learning},
-  author={Lv, Xiang and Luo, Jiesi and Zhang, Yonglin and Guo, Hui and Yang, Ming and Li, Menglong and Chen, Qi and Jing, Runyu},
-  journal={Information Sciences},
-  pages={121582},
-  year={2024},
-  publisher={Elsevier}
+@article{lv2024unveiling,    
+  title={Unveiling diagnostic information for type 2 diabetes through interpretable machine learning},  
+  author={Lv, Xiang and Luo, Jiesi and Zhang, Yonglin and Guo, Hui and Yang, Ming and Li, Menglong and Chen, Qi and Jing, Runyu},  
+  journal={Information Sciences},  
+  pages={121582},  
+  year={2024},  
+  publisher={Elsevier}  
 }
 # DSpaLaRefiner
 A data space landmark refiner deep learning algorithm, which serves as an interpretable approach employed for the construction of auxiliary diagnostic model.
