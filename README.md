@@ -1,4 +1,4 @@
-@article{lv2024unveiling,    
+@article{  
   title={Unveiling diagnostic information for type 2 diabetes through interpretable machine learning},  
   author={Lv, Xiang and Luo, Jiesi and Zhang, Yonglin and Guo, Hui and Yang, Ming and Li, Menglong and Chen, Qi and Jing, Runyu},  
   journal={Information Sciences},  
